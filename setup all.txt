@@ -1,0 +1,15 @@
+python -m pip install --upgrade pip
+
+python -m pip install --upgrade opencv-python
+python -m pip install --upgrade numpy
+python -m pip install --upgrade pandas
+python -m pip install --upgrade matplotlib
+python -m pip install --upgrade scikit-learn
+python -m pip install --upgrade scipy
+python -m pip install --upgrade fer
+
+pip install TFANN
+pip install xgboost 
+pip install seaborn
+pip install yahoo_fin
+pip install yfinance
